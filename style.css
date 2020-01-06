@@ -1,0 +1,74 @@
+.show {
+    border-collapse: collapse;
+    width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 15px;
+}
+
+.show td {
+    border: 1px solid silver;
+    padding: 5px;
+}
+
+.show th {
+    background-color: blue;
+    color: white;
+    font-weight: bold;
+    padding: 3px;
+}
+
+.add {
+    border-collapse: collapse;
+    width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.add td {
+    border: 1px solid silver;
+    padding: 5px;
+    text-align: center;
+}
+.add th {
+    background-color: forestgreen;
+    color: white;
+    font-weight: bold;
+    padding: 3px;
+}
+.button {
+    width: 200px;
+    height: 25px;
+    background-color: mediumseagreen;
+    color: white;
+    font-size: 16px;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 7px;
+    cursor: pointer;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.button:hover {
+    background-color: limegreen;
+}
+
+.center {
+    text-align: center;
+}
+
+.load {
+    text-align: center;
+}
+.load img {
+    margin-right: auto;
+    margin-left: auto;
+    width: 80px;
+}
+
+.del-icon {
+    cursor: pointer;
+    height: 18px;
+    margin-top: 5px;
+}
